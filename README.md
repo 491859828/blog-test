@@ -1,10 +1,10 @@
 # 个人博客
 
-'blog'
+`blog`
 
- ''' many blogs
+``` many blogs
  blogs
- '''
+```
 
  1. a
  2. b
